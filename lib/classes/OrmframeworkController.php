@@ -1,4 +1,5 @@
 <?php
+namespace ormframework_api;
 
 class OrmframeworkController {
 	private $name, $request, $path;

@@ -1,4 +1,7 @@
 <?php
+namespace ormframework_api;
+
+use ormframework_api\interfaces\IOrmframeworkRequest;
 
 /**
  * Class OrmframeworkRequest
